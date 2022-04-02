@@ -1,0 +1,14 @@
+API 
+Application Program Interface 
+We made a request to the waiter to get us a hamburger 
+
+
+SPA
+Single Page Application 
+
+
+MVC 
+Model       View             Controller 
+people.js   view.js          script.js
+data        look and feel    marries data with the view 
+
