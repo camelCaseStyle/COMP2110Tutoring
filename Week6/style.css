@@ -1,0 +1,9 @@
+ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    list-style-type: none;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
